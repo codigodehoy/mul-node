@@ -8,4 +8,3 @@ crearArchivo(argv.b, argv.l, argv.h)
   .catch((err) => console.log(err));
 
 // console.log(process.argv);
-// https://www.udemy.com/course/node-de-cero-a-experto/learn/lecture/9510918#questions/5981172
